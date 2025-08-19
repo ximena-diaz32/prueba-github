@@ -1,0 +1,6 @@
+ MAYOR MENOR SIGNOS
+><
+
+comentar en XML
+
+<!-- -->
